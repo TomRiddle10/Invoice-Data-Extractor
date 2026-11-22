@@ -1,0 +1,50 @@
+[
+  {
+    "source_file": "sample_invoice_1.txt",
+    "invoice_number": "INV-2026-001",
+    "invoice_date": "2026-11-10",
+    "vendor_name": "ACME Office Supplies",
+    "currency": "INR",
+    "subtotal": 1490.0,
+    "tax": 268.2,
+    "total": 1758.2,
+    "items": [
+      {
+        "description": "A4 Paper Ream",
+        "quantity": 5.0,
+        "unit_price": 250.0,
+        "line_total": 1250.0
+      },
+      {
+        "description": "Blue Pen Box",
+        "quantity": 2.0,
+        "unit_price": 120.0,
+        "line_total": 240.0
+      }
+    ]
+  },
+  {
+    "source_file": "sample_invoice_2.txt",
+    "invoice_number": "TW/4582",
+    "invoice_date": "12/11/2026",
+    "vendor_name": "Tech World",
+    "currency": "INR",
+    "subtotal": 3050.0,
+    "tax": 549.0,
+    "total": 3599.0,
+    "items": [
+      {
+        "description": "Wireless Mouse",
+        "quantity": 3.0,
+        "unit_price": 550.0,
+        "line_total": 1650.0
+      },
+      {
+        "description": "USB Keyboard",
+        "quantity": 2.0,
+        "unit_price": 700.0,
+        "line_total": 1400.0
+      }
+    ]
+  }
+]

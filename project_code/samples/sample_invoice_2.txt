@@ -1,0 +1,10 @@
+TECH WORLD
+Vendor: Tech World
+Invoice Number: TW/4582
+Date: 12/11/2026
+Currency: INR
+ITEM: Wireless Mouse | 3 | 550.00 | 1650.00
+ITEM: USB Keyboard | 2 | 700.00 | 1400.00
+Subtotal: 3050.00
+Tax: 549.00
+Total Due: 3599.00

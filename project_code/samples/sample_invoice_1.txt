@@ -1,0 +1,10 @@
+ACME OFFICE SUPPLIES
+Vendor: ACME Office Supplies
+Invoice Number: INV-2026-001
+Invoice Date: 2026-11-10
+Currency: INR
+ITEM: A4 Paper Ream | 5 | 250.00 | 1250.00
+ITEM: Blue Pen Box | 2 | 120.00 | 240.00
+Subtotal: 1490.00
+GST: 268.20
+Grand Total: 1758.20

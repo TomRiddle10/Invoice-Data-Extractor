@@ -1,0 +1,4 @@
+GitHub Repository URL: ADD_YOUR_GITHUB_REPOSITORY_URL_HERE
+
+After creating a public/private repository, push the contents of project_code/ and replace this placeholder with your repository URL.
+Do not upload .env files or API keys.
